@@ -1,3 +1,7 @@
+h1. Opis
+
+Symulacja skrzyżowania.
+
 h1. Autorzy
 
 * Stanisław Wasiutyński <staszek.wasiutynski@gmail.com>
